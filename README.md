@@ -19,7 +19,7 @@
 
 1. قم بتنزيل المشروع:
 ```bash
-git clone https://github.com/yourusername/osint-email.git
+git clone https://github.com/saudicrackers/osint-email.git
 cd osint-email
 ```
 
